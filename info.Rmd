@@ -1,0 +1,18 @@
+---
+title: "Bridal make up"
+description: |
+  A new article created using the Distill format.
+
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+If you are a new customer we will give a 10% discount and you will have the best make up in the whole UK. And trust me you will not go out the shop without a smile.
+![](maykup.htm images/name of pic.jpg)
+![](maykup/bridalmaykup.jfif){width=30%}
+![](maykup/ayeza-khan-2aa.jpg){width=30%}

@@ -1,0 +1,14 @@
+name: "."
+title: "Glam days"
+description: 
+  name of your website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "info"
+      href: info.html
+output: distill::distill_article

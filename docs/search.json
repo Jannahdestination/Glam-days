@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-02-23T12:37:57+00:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Glam Days",
+      "author": [],
+      "contents": "\n\n          \n          \n          Glam days\n          \n          \n          Home\n          About\n          info\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Glam Days\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Glam Days is all about morning and night routines and how\n            to take care off your skin and we even have makeup deals and\n            makeup artists.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Glam Days\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Glam Days is all about morning and night routines and\n              how to take care off your skin and we even have makeup\n              deals and makeup artists.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-02-23T12:27:55+00:00"
+    },
+    {
+      "path": "info.html",
+      "title": "Bridal make up",
+      "description": "A new article created using the Distill format.\n",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\nIf you are a new customer we will give a 10% discount and you will have the best make up in the whole UK. And trust me you will not go out the shop without a smile.\n\n\n\n\n",
+      "last_modified": "2024-02-23T12:37:57+00:00"
+    }
+  ],
+  "collections": []
+}

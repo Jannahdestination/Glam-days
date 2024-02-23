@@ -1,0 +1,21 @@
+---
+title: "Glam Days"
+image: "images/images1.jfif"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+
+## Introduction
+
+Glam Days is all about morning and night routines and how to take care off your skin and we even have makeup deals and makeup artists.
