@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-02-23T12:37:57+00:00"
+      "last_modified": "2024-02-23T12:51:00+00:00"
     },
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\nIf you are a new customer we will give a 10% discount and you will have the best make up in the whole UK. And trust me you will not go out the shop without a smile.\n\n\n\n\n",
-      "last_modified": "2024-02-23T12:37:57+00:00"
+      "last_modified": "2024-02-23T12:51:00+00:00"
     }
   ],
   "collections": []
