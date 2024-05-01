@@ -1,10 +1,14 @@
+
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
+ heyyyy whats up going be brides, so today we are going to be talking about my company and what we do for a living.we are always happy to help a costomer any day any time.we even do different cultural makeup.
+ 
+ 
+ ![](images/bride.jpg)

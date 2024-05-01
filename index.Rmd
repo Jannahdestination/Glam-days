@@ -1,4 +1,4 @@
----
+
 title: "Glam Days"
 image: "images/images1.jfif"
 links:
@@ -18,4 +18,4 @@ site: distill::distill_website
 
 ## Introduction
 
-Glam Days is all about morning and night routines and how to take care off your skin and we even have makeup deals and makeup artists.
+Glam Days is all about morning and night routines and how to take care off your skin and we even have makeup deals and makeup artists.You just need to phone 00189837872.
