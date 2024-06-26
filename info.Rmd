@@ -12,11 +12,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-If you are a new customer we will give a 10% discount and you will have the best make up in the whole UK. And trust me you will not go out the shop without a smile.
-![](maykup.htm images/name of pic.jpg)
-![](maykup/bridalmaykup.jfif){width=30%}
+ Traditional bridal makeup focuses on enhancing the bride's natural beauty with a timeless and elegant style. If you want a bridal makeup look that is classic, glamorous and won't go out of style in your wedding photos for years to come, traditional makeup is the way to go.So don't do british makeup do what makes u happy ,plus family'(especially).If you are a new customer we will give a 10% discount and you will have the best make up in the whole UK. And trust me you will not go out the shop without a smile on your face,if u can't come we'll make an exception dont worry we'll come.
+![](maykup/images1.jfif){width=30%}
+
+
 ![](maykup/ayeza-khan-2aa.jpg){width=30%}
-![](bride.jpg/)
 
 
 

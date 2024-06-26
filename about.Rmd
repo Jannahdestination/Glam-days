@@ -8,7 +8,7 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
- heyyyy whats up going be brides, so today we are going to be talking about my company and what we do for a living.we are always happy to help a costomer any day any time.we even do different cultural makeup.
+ heyyyy whats up going be brides,  “Today a bride, tomorrow a wife .So today we are going to be talking about my company and what we do for a living.we are always happy to help a costomer ,any day any time.we even do different cultural makeup.the rest about facial and product for face are at the shop so u have to ask them on the phone .Just call the  07538254762.
  
  
- ![](images/bride.jpg)
+ ![](images/bride.jpg){width=50%}

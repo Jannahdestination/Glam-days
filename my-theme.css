@@ -1,7 +1,4 @@
-
-
-
-
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&family=Poetsen+One&display=swap');
 
 /* base variables */
 
@@ -31,9 +28,9 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    sans-serif;
+  --heading-font:    Jacquard;
   --mono-font:       monospace;
-  --body-font:       sans-serif;
+  --body-font:       Jacquard;
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
 
@@ -66,8 +63,8 @@ d-appendix {
   --title-size:       18px;
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #b3b3f1;
+  --hover-color:      dark maroon;
+  --bkgd-color:       #7A0000;
 }
 
 .distill-site-footer {
